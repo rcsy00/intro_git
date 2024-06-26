@@ -1,3 +1,5 @@
 Gitの練習をしていきます
 基本的なワークフローを学びます!!!
 <p>git commit --amend</p>
+
+<p>git merge</p>
